@@ -4,10 +4,10 @@ h1 {
     font-style: normal;
   }
   h1 {font-size: 500%;
-    color: rgb(238, 255, 0);
+    color: rgb(0, 255, 76);
 }
 h1 {border-style: solid;
-    border-color: rgb(105, 30, 210);
+    border-color: rgb(30, 78, 210);
      border-width: 4px;
 }
     h1 {margin-left: 20%;
